@@ -37,6 +37,38 @@
   display: block;
   position: fixed; }
 
+.Popup2 canvas {
+  display: block;
+  position: fixed; }
+
+.Popup2 .popup {
+  margin: 138px;
+  background-color: #f4eff2;
+  font-family: Helvetica;
+  border: solid 1px; }
+  .Popup2 .popup header {
+    padding: 20px;
+    background-color: white; }
+  .Popup2 .popup p {
+    padding: 20px;
+    color: #999999; }
+
+.Test canvas {
+  display: block;
+  position: fixed; }
+
+.Test .popup {
+  margin: 138px;
+  background-color: #eee;
+  font-family: courier;
+  border: solid 1px; }
+  .Test .popup header {
+    padding: 20px;
+    background-color: white; }
+  .Test .popup p {
+    padding: 20px;
+    color: #999999; }
+
 body {
   overscroll-behavior-y: none;
   height: 100%;
