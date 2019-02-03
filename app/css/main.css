@@ -68,6 +68,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
 
+    pointer-events: none;
 }
 
 .popup header {
@@ -93,7 +94,7 @@ body {
 }
 
 .hotspot{
-    opacity: 0;
+    opacity: 1;
     position:absolute;
     background-color: #0BA449;
 }
