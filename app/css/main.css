@@ -94,7 +94,7 @@ body {
 }
 
 .hotspot{
-    opacity: 0;
+    opacity: 2;
     position:asbsolute;
     background-color: #0BA449;
 }
